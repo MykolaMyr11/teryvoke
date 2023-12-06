@@ -4,4 +4,4 @@ program tictactoe.aleo {
     // - `c2` : The second entry in the row.
     // - `c3` : The third entry in the row.
     // A valid entry is either 0, 1, or 2, where 0 is empty, 1 corresponds to player 1, and 2 corresponds to player 2.
-   
+   }}
